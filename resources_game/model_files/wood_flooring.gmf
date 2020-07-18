@@ -1,0 +1,9 @@
+model_file C:/Users/zin/Documents/Recources/plane.obj
+diffuse_texture C:/Users/zin/Documents/Recources/Wood Flooring/diffuse.jpg
+gloss_texture C:/Users/zin/Documents/Recources/Wood Flooring/gloss.jpg
+normal_texture C:/Users/zin/Documents/Recources/Wood Flooring/normals.jpg
+displacement_texture C:/Users/zin/Documents/Recources/Wood Flooring/displacement.jpg
+specular_intensity 0
+specular_dampening 32
+parallax_scale 0.008
+parallax_offset -0.5

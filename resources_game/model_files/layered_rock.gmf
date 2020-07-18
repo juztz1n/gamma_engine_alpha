@@ -1,0 +1,9 @@
+model_file resources/models/plane.obj
+diffuse_texture resources/textures/lrock/diffuse.png
+gloss_texture resources/textures/lrock/roughness.png
+normal_texture resources/textures/lrock/normals.png
+displacement_texture resources/textures/lrock/displacement.png
+specular_intensity 0
+specular_dampening 32
+parallax_scale 0.05
+parallax_offset -0.5

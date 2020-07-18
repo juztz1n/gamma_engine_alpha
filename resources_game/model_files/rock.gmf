@@ -1,0 +1,6 @@
+model_file resources/models/rock.obj
+diffuse_texture resources/textures/rock/diffuse.jpg
+normal_texture resources/textures/rock/normals.jpg
+specular_intensity 0
+specular_dampening 256
+parallax_scale 0

@@ -1,0 +1,6 @@
+model_file /resources/models/sphere.obj
+diffuse_texture C:/Users/zin/Documents/Recources/debugDwdasdiffuse.png
+specular_intensity 0
+specular_dampening 256
+parallax_scale 0.008
+parallax_offset -0.5

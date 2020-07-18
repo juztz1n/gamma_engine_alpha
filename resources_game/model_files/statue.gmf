@@ -1,0 +1,5 @@
+model_file resources/models/statue.obj
+diffuse_texture resources/textures/statue/diffuse.jpg
+specular_intensity 0
+specular_dampening 256
+parallax_scale 0

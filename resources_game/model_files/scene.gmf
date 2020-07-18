@@ -1,0 +1,9 @@
+model_file C:/Users/zin/Documents/Recources/scene.obj
+diffuse_texture C:/Users/zin/Documents/Recources/Layered Rock/diffuse.png
+gloss_texture C:/Users/zin/Documents/Recources/Layered Rock/roughness.png
+normal_texture C:/Users/zin/Documents/Recources/Layered Rock/normals.png
+displacement_texture C:/Users/zin/Documents/Recources/Layered Rock/displacement.png
+specular_intensity 0
+specular_dampening 32
+parallax_scale 0.05
+parallax_offset -0.5

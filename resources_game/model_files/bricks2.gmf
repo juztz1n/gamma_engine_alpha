@@ -1,0 +1,8 @@
+model_file resources/models/plane.obj
+diffuse_texture resources/textures/bricks/diffuse.jpg
+normal_texture resources/textures/bricks/normals.jpg
+displacement_texture resources/textures/bricks/displacement.jpg
+specular_intensity 0
+specular_dampening 32
+parallax_scale 0.03
+parallax_offset 1
